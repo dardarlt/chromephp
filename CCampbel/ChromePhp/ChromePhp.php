@@ -15,6 +15,8 @@
  * limitations under the License.
  */
 
+namespace Campbell\ChromePhp;
+
 /**
  * Server Side Chrome PHP debugger class
  *
